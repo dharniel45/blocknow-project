@@ -504,7 +504,7 @@ li {
   color: white;
   background: #ffc600;
   
-  outline: 5px solid white;
+  outline: 3px solid white;
     padding: 1.5rem 3rem;
     font-size: 20px;
     border-radius: 10px;
@@ -561,7 +561,7 @@ a.btn:active,
 
   .left img {
     height: 40rem;
-    max-width: 25rem;
+    max-width:  25rem;
   }
 }
 
