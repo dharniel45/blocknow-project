@@ -489,17 +489,14 @@ li {
   object-fit: cover;
 }
 
+
 .right h1 {
   margin-bottom: -2rem;
   font-weight: bolder;
-  font-size: 60px;
-   padding-bottom: 2px;
+  display: flex;
+  font-size: 80px;
+  margin-bottom: 2px;
 }
-
-
-
-
-
 .center a{
   color: white;
   background: #ffc600;
