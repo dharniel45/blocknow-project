@@ -115,14 +115,14 @@ li {
 
 .logo {
   
-  z-index: 1;
- top: 0;
- bottom: 0;
-  align-items: center;
-  justify-content: center;
-  padding: 0rem -10%;
- margin-left : 50px;
- 
+  z-index: 100;
+ top: 12pt;
+ right: 24pt;
+}
+
+.exit {
+     margin: -20px;
+
 }
 
 .logo h1 {
